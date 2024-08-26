@@ -6,7 +6,7 @@ Este projeto consiste em uma API desenvolvida em C# que interage com um banco de
 
 ## Execução da Api 
 Foi criado um docker-compose.yml para facilitar a subida da aplicação, o mesmo 
-ja contem uma versao do sql server.
+ja contem uma versao do sql server, a aplicação esta configurada para responder na porta 5000.
 
 ```plaintext
 docker-compose up -d
